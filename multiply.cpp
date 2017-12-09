@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 void Multiply (double x, double y,double& mul) {
-  mul = x * y;
+   return multiply_in_js(x, y);
 }
 int main() {
   double n1, n2, m;
